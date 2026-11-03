@@ -10,10 +10,11 @@ from pathlib import Path
 OUTPUT_FILE = Path("simulation_id.yml")
 
 COMMENT = (
-    '# Rename this .yml file to your simulation ID (e.g., "UM/suite_ID.yml"). '
-    'Including "UM/" moves this file to the UM/ directory. Populate the fields '
-    "below with the simulation details. To leave a field blank, use ''. "
-    "Finally, remove this comment and commit your changes."
+    '# Rename this .yml file to your simulation ID (e.g., "UM/suite_ID.yml").\n'
+    '# Including "UM/" moves this file to the UM/ directory.\n'
+    '# Populate the fields below with the simulation details.\n'
+    "# To leave a field blank, use ''.\n"
+    '# Finally, remove these comments, and commit your changes.'
 )
 
 FIELDS = (
