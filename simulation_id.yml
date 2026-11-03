@@ -1,4 +1,8 @@
-# Rename this .yml file to your simulation ID (e.g., "UM/suite_ID.yml"). Including "UM/" moves this file to the UM/ directory. Populate the fields below with the simulation details. To leave a field blank, use ''. Finally, remove this comment and commit your changes.
+# Rename this .yml file to your simulation ID (e.g., "UM/suite_ID.yml").
+# Including "UM/" moves this file to the UM/ directory.
+# Populate the fields below with the simulation details.
+# To leave a field blank, use ''.
+# Finally, remove these comments, and commit your changes.
 run_ID: ''
 model_version: ''
 documentation: ''
