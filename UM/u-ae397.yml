@@ -1,0 +1,18 @@
+run_ID: u-ae397
+model_version: ~GA7
+documentation: ''
+resolution: N512
+ssts: ''
+platform: ARCHER
+num_years: ''
+years: 1957-2010
+notes: The entire runs are available in netCDF format on Elastic Tape for the HRCM
+  workspace. A subset of the data is on Jasmin. http://collab.metoffice.gov.uk/twiki/bin/view/Project/HiResCL/
+  Ab377Ab587Ac035OnJasmin
+cape_timescale_hr: ''
+simulation_author: P.L. Vidale
+data_owner: ''
+data_location: /group_workspaces/jasmin2/hrcm/cache/cjroberts/febbraio2
+known_data_issues: ac035a.pe19740411.pp corrupt
+pis: ''
+funding_agency: ''

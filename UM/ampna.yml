@@ -1,0 +1,16 @@
+run_ID: ampna
+model_version: GA4.0
+documentation: ''
+resolution: N1024
+ssts: OSTIA
+platform: MO
+num_years: '4'
+years: 2008-2012
+notes: Current climate, parametrised convection
+cape_timescale_hr: '1'
+simulation_author: MJR
+data_owner: M.J. Roberts
+data_location: ''
+known_data_issues: ''
+pis: ''
+funding_agency: ''

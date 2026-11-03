@@ -1,0 +1,16 @@
+run_ID: akkvm
+model_version: GA3.0
+documentation: ''
+resolution: N96
+ssts: AMIP-II
+platform: MO
+num_years: '30'
+years: 1979-2008
+notes: 'Like akkvi: include N Atl cold bias from coupled model'
+cape_timescale_hr: '1.5'
+simulation_author: ''
+data_owner: D. Copsey
+data_location: ''
+known_data_issues: ''
+pis: ''
+funding_agency: ''

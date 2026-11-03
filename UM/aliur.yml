@@ -1,0 +1,16 @@
+run_ID: aliur
+model_version: GA4.0
+documentation: ''
+resolution: N96
+ssts: Reynolds
+platform: MO
+num_years: '27'
+years: 1982-2008
+notes: GA4.0 are with no volcanic forcing
+cape_timescale_hr: '1'
+simulation_author: ''
+data_owner: D. Copsey
+data_location: ''
+known_data_issues: ''
+pis: ''
+funding_agency: ''

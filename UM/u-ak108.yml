@@ -1,0 +1,16 @@
+run_ID: u-ak108
+model_version: GC3.1-ML
+documentation: ''
+resolution: N216
+ssts: ''
+platform: MO
+num_years: ''
+years: ''
+notes: spinup-1950
+cape_timescale_hr: ''
+simulation_author: ''
+data_owner: ''
+data_location: ''
+known_data_issues: ''
+pis: PLV,MJR
+funding_agency: ''

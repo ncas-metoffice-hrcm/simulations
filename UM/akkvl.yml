@@ -1,0 +1,16 @@
+run_ID: akkvl
+model_version: GA3.0
+documentation: ''
+resolution: N96
+ssts: AMIP-II
+platform: MO
+num_years: '30'
+years: 1979-2008
+notes: Timeslice with delta SST from HadGEM2 RCP8.5
+cape_timescale_hr: '1.5'
+simulation_author: ''
+data_owner: D. Copsey
+data_location: ''
+known_data_issues: ''
+pis: ''
+funding_agency: ''

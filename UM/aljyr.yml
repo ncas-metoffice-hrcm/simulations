@@ -1,0 +1,16 @@
+run_ID: aljyr
+model_version: GA4.0 (coupled)
+documentation: ''
+resolution: N96
+ssts: ORCA1
+platform: MO
+num_years: '135'
+years: ''
+notes: Start from ocean forecast initial conditions
+cape_timescale_hr: '1'
+simulation_author: ''
+data_owner: C. Harris
+data_location: ''
+known_data_issues: ''
+pis: ''
+funding_agency: ''

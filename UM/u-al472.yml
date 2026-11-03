@@ -1,0 +1,16 @@
+run_ID: u-al472
+model_version: GC3.1-HH
+documentation: ''
+resolution: N512
+ssts: ''
+platform: MO
+num_years: '100'
+years: 1950-2050
+notes: control-1950
+cape_timescale_hr: ''
+simulation_author: ''
+data_owner: ''
+data_location: ''
+known_data_issues: ''
+pis: ''
+funding_agency: ''

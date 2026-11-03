@@ -1,0 +1,16 @@
+run_ID: ajtzr
+model_version: GA3.0 (coupled)
+documentation: ''
+resolution: N96
+ssts: ORCA1
+platform: MO
+num_years: '150'
+years: ''
+notes: Years are nominal, average 1990's forcings
+cape_timescale_hr: '1.5'
+simulation_author: ''
+data_owner: C. Harris
+data_location: ''
+known_data_issues: ''
+pis: ''
+funding_agency: ''

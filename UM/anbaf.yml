@@ -1,0 +1,16 @@
+run_ID: anbaf
+model_version: GA5.0 (coupled / GC1)
+documentation: ''
+resolution: N96
+ssts: ORCA025
+platform: MO
+num_years: '100'
+years: ''
+notes: ENDGAME pre-bug fix
+cape_timescale_hr: '0.5'
+simulation_author: ''
+data_owner: C. Harris
+data_location: ''
+known_data_issues: ''
+pis: ''
+funding_agency: ''

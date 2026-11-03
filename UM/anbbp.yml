@@ -1,0 +1,16 @@
+run_ID: anbbp
+model_version: GA5.0 (#93)
+documentation: ''
+resolution: N1024
+ssts: OSTIA
+platform: MO
+num_years: '5'
+years: 2008-2012
+notes: OSTIA SST and sea-ice forcing
+cape_timescale_hr: '0.5'
+simulation_author: ''
+data_owner: M.J. Roberts
+data_location: ''
+known_data_issues: ''
+pis: ''
+funding_agency: ''

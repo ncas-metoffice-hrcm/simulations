@@ -1,0 +1,16 @@
+run_ID: anque
+model_version: GC2
+documentation: ''
+resolution: N96
+ssts: ORCA025
+platform: MO
+num_years: '150'
+years: ''
+notes: 1% year on year increase in C02
+cape_timescale_hr: ''
+simulation_author: ''
+data_owner: T. Andrews
+data_location: /group_workspaces/jasmin2/primavera1/WP2/CPL/METOFFICE/HadGEM3-GC2/N96O025
+known_data_issues: ''
+pis: ''
+funding_agency: ''

@@ -1,0 +1,16 @@
+run_ID: u-ai819
+model_version: GC3.1 (PRIMAVERA / HighResMIP with EasyAerosol)
+documentation: ''
+resolution: N96
+ssts: ''
+platform: MO
+num_years: ''
+years: 1950-2012
+notes: ''
+cape_timescale_hr: ''
+simulation_author: ''
+data_owner: ''
+data_location: ''
+known_data_issues: ''
+pis: ''
+funding_agency: ''

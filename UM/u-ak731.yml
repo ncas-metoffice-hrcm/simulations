@@ -1,0 +1,16 @@
+run_ID: u-ak731
+model_version: GC3.1-LL
+documentation: ''
+resolution: N96 ORCA1
+ssts: ''
+platform: MO
+num_years: '65'
+years: 1950-2014
+notes: hist-1950
+cape_timescale_hr: ''
+simulation_author: ''
+data_owner: ''
+data_location: PRIMAVERA DMT
+known_data_issues: ''
+pis: ''
+funding_agency: ''

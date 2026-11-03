@@ -1,0 +1,16 @@
+run_ID: answg
+model_version: GC2
+documentation: ''
+resolution: N512
+ssts: ORCA025
+platform: MO
+num_years: '100'
+years: ''
+notes: ''
+cape_timescale_hr: ''
+simulation_author: ''
+data_owner: M.J. Roberts
+data_location: ''
+known_data_issues: ''
+pis: M.J. Roberts
+funding_agency: MO

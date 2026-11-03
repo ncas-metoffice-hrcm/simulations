@@ -1,0 +1,16 @@
+run_ID: alxdf
+model_version: GA4.0 (coupled)
+documentation: ''
+resolution: N512
+ssts: ORCA025
+platform: MO
+num_years: '34'
+years: ''
+notes: Start from ocean climatology
+cape_timescale_hr: '1'
+simulation_author: ''
+data_owner: M.J. Roberts
+data_location: ''
+known_data_issues: ''
+pis: ''
+funding_agency: ''

@@ -1,0 +1,16 @@
+run_ID: aofgc
+model_version: GA3.0 (coupled)
+documentation: ''
+resolution: N216
+ssts: ORCA025
+platform: MO
+num_years: 20+
+years: ''
+notes: 1% year on year increase in CO2 starting from amqlr 2420
+cape_timescale_hr: ''
+simulation_author: ''
+data_owner: M. Menary
+data_location: ''
+known_data_issues: ''
+pis: ''
+funding_agency: ''

@@ -1,0 +1,16 @@
+run_ID: anquf
+model_version: GC2
+documentation: ''
+resolution: N96
+ssts: ''
+platform: MO
+num_years: '154'
+years: ''
+notes: 4x CO2 (abrupt step)
+cape_timescale_hr: ''
+simulation_author: ''
+data_owner: T. Andrews
+data_location: ''
+known_data_issues: ''
+pis: ''
+funding_agency: ''

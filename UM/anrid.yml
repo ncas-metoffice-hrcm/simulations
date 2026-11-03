@@ -1,0 +1,16 @@
+run_ID: anrid
+model_version: GA6.0
+documentation: ''
+resolution: N512
+ssts: ''
+platform: MO
+num_years: '30'
+years: 1982-2011
+notes: ''
+cape_timescale_hr: ''
+simulation_author: ''
+data_owner: M.J. Roberts
+data_location: ''
+known_data_issues: ''
+pis: ''
+funding_agency: ''

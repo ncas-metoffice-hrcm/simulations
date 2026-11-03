@@ -1,0 +1,16 @@
+run_ID: u-aj059
+model_version: GC3.1 (PRIMAVERA / HighResMIP with EasyAerosol)
+documentation: ''
+resolution: N96
+ssts: present
+platform: MO
+num_years: '65'
+years: 1950-2014
+notes: Both SPT and SKEB2 off
+cape_timescale_hr: ''
+simulation_author: ''
+data_owner: ''
+data_location: ''
+known_data_issues: ''
+pis: ''
+funding_agency: ''

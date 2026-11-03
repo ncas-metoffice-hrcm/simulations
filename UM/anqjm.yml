@@ -1,0 +1,17 @@
+run_ID: anqjm
+model_version: GC2
+documentation: 'Williams, K. D. et al. (2015), “The Met Office Global Coupled model
+  2.0 (GC2) configuration”, Geoscientific Model Development 88, 1509–1524. doi: 10.5194/gmd-88-1509-2015.'
+resolution: N96
+ssts: ''
+platform: MO
+num_years: '100'
+years: ''
+notes: constant 1990 forcing
+cape_timescale_hr: ''
+simulation_author: ''
+data_owner: D. Copsey
+data_location: /group_workspaces/jasmin2/primavera1/WP2/CPL/METOFFICE/HadGEM3-GC2/N96O025
+known_data_issues: ''
+pis: ''
+funding_agency: ''

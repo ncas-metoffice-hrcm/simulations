@@ -1,0 +1,16 @@
+run_ID: u-am164
+model_version: GC3.1-HM
+documentation: ''
+resolution: N512
+ssts: ''
+platform: ''
+num_years: '65'
+years: 1950-2014
+notes: hist-1950
+cape_timescale_hr: ''
+simulation_author: ''
+data_owner: ''
+data_location: PRIMAVERA DMT
+known_data_issues: ''
+pis: ''
+funding_agency: ''

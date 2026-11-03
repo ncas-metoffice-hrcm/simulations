@@ -1,0 +1,16 @@
+run_ID: angma
+model_version: GA5.0 (#93)
+documentation: ''
+resolution: N96
+ssts: Reynolds
+platform: MO
+num_years: '20'
+years: 1989-2008
+notes: '#93 is EndGame bug fix for theta increment'
+cape_timescale_hr: '0.5'
+simulation_author: ''
+data_owner: Markus Gross
+data_location: ''
+known_data_issues: ''
+pis: ''
+funding_agency: ''

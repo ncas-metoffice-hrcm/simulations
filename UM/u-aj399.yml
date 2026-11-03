@@ -1,0 +1,16 @@
+run_ID: u-aj399
+model_version: GA7.1
+documentation: ''
+resolution: N1280
+ssts: ''
+platform: MO
+num_years: '5'
+years: 2005-2010
+notes: u-aj399 covers 2005, u-aj981 covers 2006 onwards
+cape_timescale_hr: ''
+simulation_author: ''
+data_owner: M.J. Roberts
+data_location: MASS
+known_data_issues: ''
+pis: ''
+funding_agency: ''

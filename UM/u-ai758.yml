@@ -1,0 +1,16 @@
+run_ID: u-ai758
+model_version: GC3.1-MM
+documentation: ''
+resolution: N216
+ssts: ''
+platform: MO
+num_years: ''
+years: ''
+notes: spinup-1950
+cape_timescale_hr: ''
+simulation_author: ''
+data_owner: ''
+data_location: PRIMAVERA DMT
+known_data_issues: ''
+pis: ''
+funding_agency: ''

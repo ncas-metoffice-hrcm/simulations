@@ -1,0 +1,16 @@
+run_ID: anqoc
+model_version: GC2
+documentation: ''
+resolution: N216
+ssts: ''
+platform: MO
+num_years: 170+
+years: ''
+notes: Pre-industrial control. Some changes in model config between jobs (SKEB2)
+cape_timescale_hr: ''
+simulation_author: ''
+data_owner: M. Andrews
+data_location: ''
+known_data_issues: ''
+pis: ''
+funding_agency: ''

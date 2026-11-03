@@ -1,0 +1,16 @@
+run_ID: u-aj558
+model_version: GC3.1-HM
+documentation: ''
+resolution: N512
+ssts: highresSST-
+platform: MO
+num_years: '65'
+years: 1950-2014
+notes: highresSST-present
+cape_timescale_hr: ''
+simulation_author: ''
+data_owner: ''
+data_location: PRIMAVERA DMT
+known_data_issues: ''
+pis: ''
+funding_agency: ''

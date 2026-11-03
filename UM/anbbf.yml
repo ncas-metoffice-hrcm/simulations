@@ -1,0 +1,16 @@
+run_ID: anbbf
+model_version: GA5.0 (#93)
+documentation: ''
+resolution: N96
+ssts: ESA-CCI
+platform: MO
+num_years: '20'
+years: 1991-2010
+notes: ESA CCI SST and sea-ice forcing
+cape_timescale_hr: '0.5'
+simulation_author: ''
+data_owner: M.J. Roberts
+data_location: ''
+known_data_issues: ''
+pis: ''
+funding_agency: ''

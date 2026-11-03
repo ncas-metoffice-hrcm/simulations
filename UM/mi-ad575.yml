@@ -1,0 +1,18 @@
+run_ID: mi-ad575
+model_version: GC2.1
+documentation: 'Hewitt, H. T. et al. (2016), “The impact of resolving the Rossby radius
+  at mid-latitudes in the ocean: Results from a high-resolution version of the Met
+  Office GC2 coupled model”, Geoscientific Model Development.'
+resolution: N216
+ssts: ORCA025
+platform: MO
+num_years: '20'
+years: ''
+notes: ''
+cape_timescale_hr: ''
+simulation_author: ''
+data_owner: ''
+data_location: /group_workspaces/jasmin2/primavera1/WP2/CPL/METOFFICE/HadGEM3-GC2.1
+known_data_issues: ''
+pis: ''
+funding_agency: ''

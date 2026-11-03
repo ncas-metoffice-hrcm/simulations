@@ -1,0 +1,16 @@
+run_ID: u-ai674
+model_version: GC3.1 (PRIMAVERA / HighResMIP with EasyAerosol)
+documentation: http://collab.metoffice.gov.uk/twiki/bin/view/Project/HiResCL/HiResCLPRIMSimulations
+resolution: N96
+ssts: present
+platform: MO
+num_years: '65'
+years: 1950-2014
+notes: ''
+cape_timescale_hr: ''
+simulation_author: ''
+data_owner: ''
+data_location: ''
+known_data_issues: ''
+pis: ''
+funding_agency: ''

@@ -1,0 +1,16 @@
+run_ID: u-ai761
+model_version: GC3.1-HM
+documentation: ''
+resolution: N512
+ssts: ''
+platform: MO
+num_years: ''
+years: ''
+notes: spinup-1950
+cape_timescale_hr: ''
+simulation_author: ''
+data_owner: ''
+data_location: ''
+known_data_issues: ''
+pis: ''
+funding_agency: ''

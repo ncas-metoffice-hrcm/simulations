@@ -1,0 +1,16 @@
+run_ID: u-aj209
+model_version: GC3.1-LM
+documentation: ''
+resolution: N96
+ssts: ''
+platform: MO
+num_years: ''
+years: ''
+notes: spinup-1950
+cape_timescale_hr: ''
+simulation_author: ''
+data_owner: ''
+data_location: ''
+known_data_issues: ''
+pis: ''
+funding_agency: ''
