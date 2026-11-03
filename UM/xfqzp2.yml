@@ -1,0 +1,16 @@
+run_ID: xfqzp2
+model_version: Between GA2.0 and GA3.0
+documentation: ''
+resolution: N512
+ssts: Reynolds
+platform: HECToR
+num_years: 7 months
+years: '2005'
+notes: 5-member ensemble seasonal runs
+cape_timescale_hr: ''
+simulation_author: ''
+data_owner: P.L. Vidale
+data_location: ''
+known_data_issues: ''
+pis: P.L. Vidale
+funding_agency: NERC

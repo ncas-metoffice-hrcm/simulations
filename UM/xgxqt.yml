@@ -1,0 +1,16 @@
+run_ID: xgxqt
+model_version: GA4.0
+documentation: ''
+resolution: N512
+ssts: Reynolds
+platform: HERMIT
+num_years: '9'
+years: 2002-2011
+notes: Current climate with 5-min timestep
+cape_timescale_hr: '1'
+simulation_author: ''
+data_owner: M. Mizielinski
+data_location: ''
+known_data_issues: ''
+pis: P.L. Vidale
+funding_agency: PRACE

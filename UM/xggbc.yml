@@ -1,0 +1,16 @@
+run_ID: xggbc
+model_version: GA3.0
+documentation: ''
+resolution: N216
+ssts: AMIP-II
+platform: MONSooN
+num_years: '20'
+years: 1979-1998
+notes: Shorter CAPE=1hr
+cape_timescale_hr: '1'
+simulation_author: ''
+data_owner: S.J. Bush
+data_location: ''
+known_data_issues: ''
+pis: ''
+funding_agency: JWCRP

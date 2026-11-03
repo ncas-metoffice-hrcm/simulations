@@ -1,0 +1,16 @@
+run_ID: xgjbk
+model_version: GA3.0
+documentation: ''
+resolution: N96
+ssts: AMIP-II
+platform: HECToR
+num_years: '5'
+years: 1979-1983
+notes: Solar annual variability switched on (in N512 as well)
+cape_timescale_hr: '1.5'
+simulation_author: ''
+data_owner: R. Schiemann
+data_location: ''
+known_data_issues: ''
+pis: ''
+funding_agency: NERC

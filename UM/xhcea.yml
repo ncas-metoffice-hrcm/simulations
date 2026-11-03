@@ -1,0 +1,16 @@
+run_ID: xhcea
+model_version: GA4.0
+documentation: ''
+resolution: N216
+ssts: Reynolds
+platform: MONSooN
+num_years: '26'
+years: 1982-2008
+notes: GA4.0 are with no volcanic forcing
+cape_timescale_hr: '1'
+simulation_author: ''
+data_owner: M.J. Roberts/D. Copsey
+data_location: ''
+known_data_issues: ''
+pis: ''
+funding_agency: ''

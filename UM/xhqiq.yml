@@ -1,0 +1,16 @@
+run_ID: xhqiq
+model_version: GA3.0 (UPSCALE)
+documentation: ''
+resolution: N96
+ssts: OSTIA
+platform: HECToR
+num_years: '26'
+years: 1985-2011
+notes: UPSCALE timeslice with delta SST from HadGEM2 RCP8.5
+cape_timescale_hr: '1'
+simulation_author: ''
+data_owner: R. Schiemann
+data_location: ''
+known_data_issues: ''
+pis: ''
+funding_agency: NERC

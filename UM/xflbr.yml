@@ -1,0 +1,16 @@
+run_ID: xflbr
+model_version: GA3.0
+documentation: ''
+resolution: N320
+ssts: AMIP-II
+platform: MONSooN
+num_years: '30'
+years: 1979-2008
+notes: Timeslice with delta SST from HadGEM2 RCP8.5
+cape_timescale_hr: '1'
+simulation_author: ''
+data_owner: M.J. Roberts
+data_location: ''
+known_data_issues: ''
+pis: ''
+funding_agency: JWCRP

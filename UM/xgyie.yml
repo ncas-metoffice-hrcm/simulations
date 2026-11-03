@@ -1,0 +1,16 @@
+run_ID: xgyie
+model_version: GA3.0 (UPSCALE)
+documentation: ''
+resolution: N512
+ssts: OSTIA
+platform: MONSooN
+num_years: '26'
+years: 1985-2011
+notes: UPSCALE timeslice with delta SST from HadGEM2 RCP8.5
+cape_timescale_hr: '1'
+simulation_author: ''
+data_owner: M. Mizielinski
+data_location: ''
+known_data_issues: ''
+pis: P.L. Vidale
+funding_agency: JWCRP

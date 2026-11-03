@@ -1,0 +1,16 @@
+run_ID: xgylb
+model_version: Between GA2.0 and GA3.0
+documentation: ''
+resolution: N512
+ssts: Reynolds
+platform: HECToR
+num_years: 9 months
+years: '2003'
+notes: 5-member ensemble seasonal runs
+cape_timescale_hr: ''
+simulation_author: ''
+data_owner: M.-E. Demory
+data_location: ''
+known_data_issues: ''
+pis: M.J. Roberts
+funding_agency: NERC

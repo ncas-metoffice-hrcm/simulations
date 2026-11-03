@@ -1,0 +1,16 @@
+run_ID: xggbd
+model_version: GA3.0
+documentation: ''
+resolution: N216
+ssts: AMIP-II
+platform: MONSooN
+num_years: '10'
+years: 1979-1988
+notes: N96-orography
+cape_timescale_hr: '1.5'
+simulation_author: ''
+data_owner: S.J. Bush
+data_location: ''
+known_data_issues: ''
+pis: ''
+funding_agency: JWCRP

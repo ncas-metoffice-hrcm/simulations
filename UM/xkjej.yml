@@ -1,0 +1,16 @@
+run_ID: xkjej
+model_version: GC2
+documentation: ''
+resolution: N512
+ssts: ''
+platform: ARCHER
+num_years: '100'
+years: ''
+notes: ''
+cape_timescale_hr: ''
+simulation_author: K Silvalingam
+data_owner: ''
+data_location: /group_workspaces/jasmin2/primavera1/WP2/CPL/METOFFICE/HadGEM3-GC2/N512O025
+known_data_issues: ''
+pis: ''
+funding_agency: NERC

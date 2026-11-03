@@ -1,0 +1,16 @@
+run_ID: xjlec
+model_version: GA6.0
+documentation: ''
+resolution: N512
+ssts: ''
+platform: ARCHER
+num_years: '23'
+years: 1982-2005
+notes: ''
+cape_timescale_hr: ''
+simulation_author: P.L. Vidale
+data_owner: K. Sivalingam
+data_location: ''
+known_data_issues: ''
+pis: P.L. Vidale
+funding_agency: NERC

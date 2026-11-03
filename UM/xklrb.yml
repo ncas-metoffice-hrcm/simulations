@@ -1,0 +1,16 @@
+run_ID: xklrb
+model_version: GC2
+documentation: ''
+resolution: N512
+ssts: ''
+platform: ARCHER
+num_years: '100'
+years: ''
+notes: As xkjej, but initialised with 2052 restart dump from answg, const. 1990 forcing
+cape_timescale_hr: ''
+simulation_author: P.L. Vidale
+data_owner: P.L. Vidale
+data_location: /group_workspaces/jasmin2/primavera1/WP2/CPL/METOFFICE/HadGEM3-GC2/N512O025
+known_data_issues: ''
+pis: P.L. Vidale
+funding_agency: NERC

@@ -1,0 +1,18 @@
+run_ID: xhqij
+model_version: GA3.0 (UPSCALE)
+documentation: 'Mizielinski, M. S. et al. (2014), “High resolution global climate
+  modelling; the UPSCALE project, a large simulation campaign”, Geosci. Model Dev.
+  7, 1629–1640. doi: 10.5194/gmd-7-1629-2014.'
+resolution: N96
+ssts: OSTIA
+platform: HECToR
+num_years: '26'
+years: 1985-2011
+notes: UPSCALE current climate ensemble
+cape_timescale_hr: '1'
+simulation_author: ''
+data_owner: R. Schiemann
+data_location: ''
+known_data_issues: ''
+pis: P.L. Vidale
+funding_agency: NERC

@@ -1,0 +1,16 @@
+run_ID: xgxqx
+model_version: GA4.0
+documentation: ''
+resolution: N512
+ssts: Reynolds
+platform: HERMIT
+num_years: '26'
+years: 1985-2011
+notes: Current climate with 1.5 x entrainment rate
+cape_timescale_hr: '1'
+simulation_author: ''
+data_owner: M. Mizielinski
+data_location: ''
+known_data_issues: ''
+pis: P.L. Vidale
+funding_agency: PRACE

@@ -1,0 +1,16 @@
+run_ID: xkrke
+model_version: GA6.0
+documentation: ''
+resolution: N480
+ssts: ''
+platform: ARCHER
+num_years: '30'
+years: 1982-2011
+notes: Control
+cape_timescale_hr: ''
+simulation_author: PLV, RS, SJJ
+data_owner: P.L. Vidale
+data_location: Elastic tape (Jasmin)
+known_data_issues: 'APR 1987, apa: last 7 days of month missing'
+pis: ''
+funding_agency: ''

@@ -1,0 +1,16 @@
+run_ID: xibdc
+model_version: GA4.0
+documentation: ''
+resolution: N512
+ssts: Reynolds
+platform: HERMIT
+num_years: '1'
+years: 2003-2004
+notes: 6-member ensemble for 2003
+cape_timescale_hr: '1'
+simulation_author: ''
+data_owner: M. Mizielinski
+data_location: ''
+known_data_issues: ''
+pis: P.L. Vidale
+funding_agency: PRACE

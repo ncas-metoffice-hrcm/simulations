@@ -1,0 +1,16 @@
+run_ID: xgxqg
+model_version: GA3.0 (UPSCALE)
+documentation: ''
+resolution: N512
+ssts: OSTIA
+platform: HERMIT
+num_years: '26'
+years: 1985-2011
+notes: UPSCALE current climate ensemble
+cape_timescale_hr: '1'
+simulation_author: PLV, MJR,
+data_owner: M. Mizielinski
+data_location: ''
+known_data_issues: ''
+pis: P.L. Vidale
+funding_agency: PRACE

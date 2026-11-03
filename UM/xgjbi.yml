@@ -1,0 +1,16 @@
+run_ID: xgjbi
+model_version: GA3.0
+documentation: ''
+resolution: N96
+ssts: AMIP-II
+platform: HECToR
+num_years: '30'
+years: 1979-2008
+notes: 4-member current climate ensemble
+cape_timescale_hr: '1.5'
+simulation_author: ''
+data_owner: R. Schiemann
+data_location: ''
+known_data_issues: ''
+pis: ''
+funding_agency: NERC
