@@ -5,7 +5,7 @@ resolution: N512
 ssts: ORCA1/12
 platform: MO
 num_years: '20'
-years: ''
+years: 1979-1994
 notes: ''
 cape_timescale_hr: ''
 simulation_author: ''
@@ -14,4 +14,3 @@ data_location: /group_workspaces/jasmin2/primavera1/WP2/CPL/METOFFICE/HadGEM3-GC
 known_data_issues: ''
 pis: ''
 funding_agency: ''
-run_ID_period: 1979-1994
