@@ -38,18 +38,18 @@ FIELDS = (
 
 
 def main() -> int:
-    if OUTPUT_FILE.exists():
-        print(
-            f"Error: {OUTPUT_FILE} already exists; refusing to overwrite it.",
-            file=sys.stderr,
-        )
-        return 1
+    content = COMMENT + "\n" + "".join(
+        f"{field}: ''\n" for field in FIELDS
+    )
 
-    content = COMMENT + "\n" + "".join(f"{field}: ''\n" for field in FIELDS)
-    OUTPUT_FILE.write_text(content, encoding="utf-8", newline="\n")
+    OUTPUT_FILE.write_text(
+        content,
+        encoding="utf-8",
+        newline="\n"
+    )
+
     print(f"Created {OUTPUT_FILE}")
     return 0
-
 
 if __name__ == "__main__":
     raise SystemExit(main())
