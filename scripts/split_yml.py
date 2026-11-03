@@ -50,7 +50,7 @@ def parse_token(token):
 
     match = MI_WITH_PERIOD.fullmatch(token)
     if match:
-        return [(match.group(1), {"run_ID_period": match.group(2)})]
+        return [(match.group(1), {"years": match.group(2)})]
 
     if VALID_ID.fullmatch(token):
         return [(token, {})]
@@ -147,7 +147,7 @@ for row_number, simulation in enumerate(simulations, start=1):
             "run_ID": run_id,
         }
 
-        # Preserve ID-specific information such as year ranges.
+        # Store ID-specific information, such as year ranges, in the years field.
         single_simulation.update(extra_fields)
 
         # Avoid overwriting files for duplicate IDs.
